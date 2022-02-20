@@ -22,6 +22,6 @@ Note, this is a modification of [Jfedor's Flatbox](https://github.com/jfedor2/fl
 
 **Instructions**
 - the brass heatsets are melted into the lid holes.
-- m3x6 button heads
+- m3x6 button heads.  short button head screws are needed due to how thin the flatbox is.  
 - as long as your printer can bridge short distances you shouldn't need to use supports.
 - note the upper lid face flex button things were also reshaped to be less square.  This was just a personal preference.
