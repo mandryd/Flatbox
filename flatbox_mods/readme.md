@@ -9,7 +9,7 @@ Note, these are modifications of [Jfedor's Flatbox](https://github.com/jfedor2/f
 </TR>
 </TABLE>
 
- - Buttons
+ - [Buttons](Buttons/)
    - Buttons printed in two pieces that are stronger so the legs don't snap.
- - Case
+ - [Case](Rev4Case/)
    - Case modified to use brass heatsets and m3 screws instead of wood screws.  Also makes some small changes to the appearance of the face buttons.
