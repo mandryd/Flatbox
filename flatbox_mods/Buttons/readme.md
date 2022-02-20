@@ -15,5 +15,5 @@ Note, this is a modification of [Jfedor's Flatbox](https://github.com/jfedor2/fl
 
 **Instructions**
 - The legs should be able to fit into the slots into the button caps with no/very little sanding.
-  - Depending on how good your printer prints to tolerance, you will need to print either the loose or tight tolerance pieces.  
+  - Depending on how well your printer prints to tolerance, you will need to print either the loose or tight tolerance pieces.  
 - add a little bit of superglue into the slot on the cap then put the leg into the slot.  
