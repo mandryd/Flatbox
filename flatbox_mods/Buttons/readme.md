@@ -1,0 +1,19 @@
+Flatbox Buttons
+-----------------
+Note, this is a modification of [Jfedor's Flatbox](https://github.com/jfedor2/flatbox).  All credit goes to him for making an awesome design.  
+
+<table width=100%>
+<TR>
+<TD width=100% align="center"><img src="images/buttons.jpg"></TD>
+</TR>
+</TABLE>
+
+**Why use these?**
+I frequently see 3d printed button caps posted online.  The issues is the legs are generally printed so legs printed in a very weak orientation and thus they snap off very easily.  
+This design separates the legs from the button caps so that the legs are now printed in the strongest orientation and are much less likely to break.
+
+
+**Instructions**
+- The legs should be able to fit into the slots into the button caps with no/very little sanding.
+  - Depending on how good prints to tolerance, you will need to print either the loose or tight tolerance pieces.  
+- add a little bit of superglue into the slot on the cap then put the leg into the slot.  
