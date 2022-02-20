@@ -14,7 +14,7 @@ Note, these are modifications of [Jfedor's Flatbox](https://github.com/jfedor2/f
 </TABLE>
 
  - [Buttons](Buttons/)
-   - I frequently see 3d printed button caps posted online.  The issues with printing button caps as a single pice is that the legs are printed a very weak orientation and break off very easily.  
+   - I frequently see single piece 3d printed button caps.  The issues with printing button caps as a single pice is that the legs are printed a very weak orientation and break off very easily.  
    - This design separates the legs from the button caps so that the legs are now printed in the strongest orientation and are much less likely to break.  Once you glue the legs into the caps, they will feel very strong.
  - [Case](Rev4Case/)
    - Case modified to use brass heatsets and m3 screws instead of wood screws.  I prefer using brass threaded heatsets instead of screwing into plastic if possible.
