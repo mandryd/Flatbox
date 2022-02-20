@@ -8,7 +8,7 @@ Note, these are modifications of [Jfedor's Flatbox](https://github.com/jfedor2/f
 <TD width=50% align="center"><img src="Rev4Case/images/assembled.jpg"></TD>
 </TR>
 <TR>
-<TD width=50% align="center"><img src="Rev4Case/images/inside_top.jpg.jpg"></TD>
+<TD width=50% align="center"><img src="Rev4Case/images/inside_top.jpg"></TD>
 <TD width=50% align="center"><img src="Rev4Case/images/rear.jpg"></TD>
 </TR>
 </TABLE>
