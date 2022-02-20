@@ -4,9 +4,12 @@ Note, this is a modification of [Jfedor's Flatbox](https://github.com/jfedor2/fl
 
 <table width=100%>
 <TR>
-<TD width=33% align="center"><img src="images/assembled.jpg"></TD>
-<TD width=33% align="center"><img src="images/inside.jpg"></TD>
-<TD width=33% align="center"><img src="images/rear.jpg"></TD>
+<TD width=50% align="center"><img src="images/assembled.jpg"></TD>
+ <TD width=50% align="center"><img src="images/inside_top.jpg"></TD>
+</TR>
+<TR>
+ <TD width=50% align="center"><img src="images/inside_bottom.jpg"></TD>
+ <TD width=50% align="center"><img src="images/rear.jpg"></TD>
 </TR>
 </TABLE>
 
