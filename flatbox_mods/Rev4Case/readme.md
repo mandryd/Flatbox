@@ -28,3 +28,4 @@ Note, this is a modification of [Jfedor's Flatbox](https://github.com/jfedor2/fl
 - m3x6 button heads.  short button head screws are needed due to how thin the flatbox is.  
 - as long as your printer can bridge short distances you shouldn't need to use supports.
 - note the upper lid face flex button things were also reshaped to be less square.  This was just a personal preference.
+- **Be aware of material shrinkage.**  I printed mine in ABS, which shrinks, so you will need to just adjust the XY shrinkage to compensate if you us a filament that shrinks.  For ABS I usually scale X and Y (Z scaling not needed) to 100.58%.
